@@ -1,5 +1,3 @@
-
-```markdown
 # 🤖 Aina - AI Web Development Assistant
 
 ![Aina's Avatar](https://i.imgur.com/VQ2eNhq.jpeg)
