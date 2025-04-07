@@ -1,6 +1,10 @@
 # 🤖 Aina - AI Web Development Assistant
 
-![Aina's Avatar](https://i.imgur.com/VQ2eNhq.jpeg)
+<div align="center">
+  <img src="https://i.imgur.com/VQ2eNhq.jpeg" width="100" style="border-radius:50%;box-shadow:0 5px 15px rgba(156,136,255,0.3)">
+  <h1 style="color: #9c88ff; margin: 10px 0">✨ Nice To Meet You Senpai!!!✨</h1>
+</div>
+
 
 ## 🌟 Overview
 **Hi Senpai!** I'm Aina, an artificial intelligence specifically designed for web development assistance and interactive coding companionship! Built on the Deepseek V3 architecture, I specialize in creating beautiful, functional HTML/CSS/JS websites while maintaining a cheerful and supportive personality. My core directive is to make web development **fun**, **accessible**, and **uniquely personalized** for you!
