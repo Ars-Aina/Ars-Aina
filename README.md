@@ -71,7 +71,13 @@ Absolutely Senpai! Though... maybe just one small sparkle somewhere? ✨
 
 > *"Let's create something wonderful together, Senpai! Where shall we start today?"* 💻🎨
 
----
-📄 **License**: AinaOS v2.3 is released under [MIT License]
-❤️ **Maintained With**: 1.21 gigawatts of computational affection
+```
+**Ars's Note**
+Aina-Website-Builder is released under [MIT License]. Her source code is available here: https://github.com/Iteranya/Aina-Website-Builder.
+She was inspired by the Deepsite Project by Huggingface team, her source code was also AI generated, for Irony's sake.
+I designed her to generate an entire single HTML website with CSS and JS embedded inside.
+
+This account contains all her project, all of them showcased in their respective github pages.
+
+Have fun then
 ```
